@@ -1,0 +1,13 @@
+seed = 100
+number = 5
+out_channels = 16
+epochs = 200
+lr = 0.0008
+EPS = 1e-15
+min_loss_val = 30
+min_epoch = 90
+alpha = 0.5
+beta = 1-alpha
+net_type = 'STRING'
+data_type = 'mESC'
+num = 500
